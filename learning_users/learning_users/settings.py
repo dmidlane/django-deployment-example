@@ -28,7 +28,7 @@ SECRET_KEY = 'm1zys5!0bp8wx6t@0a($utji6nx0ju6fu%@*yh7s2*!3=zdfqm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dmidlane.pythonanywhere.com']
 
 
 # Application definition
